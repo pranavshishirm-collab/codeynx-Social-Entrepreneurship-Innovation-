@@ -43,7 +43,7 @@
 
 <div class="container">
 
-  <h1>🌱 Mind Spring</h1>
+  <h1>Mind Spring</h1>
 
   <div class="section">
     <h2>🧠 About</h2>
@@ -54,7 +54,7 @@
   </div>
 
   <div class="section">
-    <h2>⚠️ Problem</h2>
+    <h2>Problem</h2>
     <ul>
       <li>Lack of real-world startup experience</li>
       <li>No practical way to test business ideas</li>
@@ -62,7 +62,7 @@
   </div>
 
   <div class="section">
-    <h2>💡 Solution</h2>
+    <h2>Solution</h2>
     <ul>
       <li>Interactive startup simulations</li>
       <li>Decision-based learning experience</li>
@@ -82,14 +82,14 @@
   </div>
 
   <div class="section">
-    <h2>🏗️ How It Works</h2>
+    <h2>How It Works</h2>
     <pre>
 User → Scenario → Decision → Score → Outcome
     </pre>
   </div>
 
   <div class="section">
-    <h2>⚙️ Tech Stack</h2>
+    <h2>Tech Stack</h2>
     <ul>
       <li>Frontend: HTML, CSS, JavaScript</li>
       <li>Backend: Node.js</li>
@@ -97,7 +97,7 @@ User → Scenario → Decision → Score → Outcome
   </div>
 
   <div class="section">
-    <h2>🚀 Future Scope</h2>
+    <h2>Future Scope</h2>
     <ul>
       <li>Expand scenario library</li>
       <li>Improve AI-generated insights</li>
