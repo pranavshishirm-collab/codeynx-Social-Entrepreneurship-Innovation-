@@ -1,20 +1,47 @@
-<<<<<<< HEAD
-# React + Vite
+Mind Spring  
+---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About
+Mind Spring is an **interactive platform** designed to help users learn social entrepreneurship through real-world startup simulations.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Problem
+- Lack of real-world startup experience  
+- No practical way to test business ideas  
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Solution
+- Interactive startup simulations  
+- Decision-based learning experience  
+- Performance tracking and feedback  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# codeynx-Social-Entrepreneurship-Innovation-
->>>>>>> origin/main
+## Features
+- Scenario-based gameplay  
+- AI-generated situations  
+- Score tracking (Impact, Risk, Execution)  
+- Leaderboard for healthy competition  
+- Collaboration with other users  
+
+---
+
+##  How It Works
+ User → Scenario → Decision → Score → Outcome
+---
+
+## Tech Stack
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Node.js  
+
+---
+
+## Future Scope
+- Expand scenario library  
+- Improve AI-generated insights  
+- Enhanced leaderboard system  
+- Visual guides for troubleshooting and decision-making  
+
+---
