@@ -8,7 +8,8 @@ Mind Spring is an **interactive platform** designed to help users learn social e
 
 ## Problem
 - Lack of real-world startup experience  
-- No practical way to test business ideas  
+- No practical way to test business ideas
+- Unavailability of simulations to test decisions
 
 ---
 
