@@ -23,8 +23,8 @@ Mind Spring is an **interactive platform** designed to help users learn social e
 - Scenario-based gameplay  
 - AI-generated situations  
 - Score tracking (Impact, Risk, Execution)  
-- 🏆 Leaderboard for healthy competition  
-- 🤝 Collaboration with other users  
+- Leaderboard for healthy competition  
+- Collaboration with other users  
 
 ---
 
